@@ -1,5 +1,5 @@
 # ELF x86 - Stack buffer overflow basic 1
-5 Points
+## 5 Points
 
 Source code:
 ```c
